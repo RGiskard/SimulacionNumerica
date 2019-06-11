@@ -38,3 +38,4 @@
 	add_subdirectory(TestAQP)
 	add_subdirectory(Babuska)
 	add_subdirectory(FengPoisson)
+	add_subdirectory(TestesGeoelement)
